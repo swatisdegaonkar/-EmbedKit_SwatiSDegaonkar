@@ -3,7 +3,7 @@
 **Embedded C Utility Library**  
 Embed Square Solutions Pvt. Ltd. — Embedded Developer Fresher Assessment
 
-**Author:** Swati  
+**Author:** Swati S Degaonkar 
 **Language:** C (C99)  
 **Platform:** Windows (MinGW)
 
